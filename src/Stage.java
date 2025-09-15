@@ -6,6 +6,14 @@ import java.util.List;
 import java.util.Optional;
 import java.util.Random;
 
+/*
+ *     State ChoosingActor;
+    State SelectingNewLocation;
+    State BotMoving;
+
+    public void 
+ */
+
 public class Stage {
   Grid grid;
   private List<Actor> listOfPlayers;
